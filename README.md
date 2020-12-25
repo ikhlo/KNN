@@ -9,4 +9,4 @@ For example, in my model, after analysing the features I decided to give less im
 Finally, we used our model to predict on the test dataset for which individuals had not label and we submit our predictions to the teacher.
 <br>
 <br>
-Here is the result of thoses modifications for the challenge: I was ranked 3rd out of 288 with an accuracy of 88,54%.
+Here is the result of thoses modifications for the challenge: I was ranked **3rd** out of 288 with an accuracy of **88,54%**.
